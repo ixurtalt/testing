@@ -1,4 +1,4 @@
--- FlowAuth v4 loader — cleaned (decoded strings, comments, same behavior)
+-- dFlowAuth v4 loader — cleaned (decoded strings, comments, same behavior)
 -- Flow: fetch blob -> size check -> Adler-32 check -> loadstring("=FlowAuthRuntime")
 --       -> stash _bsdata0 handoff -> runtime(credential)
 
